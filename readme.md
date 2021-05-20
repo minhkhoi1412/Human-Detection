@@ -6,7 +6,7 @@
 - imutils version 0.5.4 : a useful library tool for DIP and will let us perform different transformations from our results
 - numpy
 - pyqt5
-- Down load Yolo pretrained model and add it to "yolo-coco" directory
+- Down load Yolo pretrained model from the link below and add it to "yolo-coco" directory
 
 ```bash
 pip install opencv-contrib-python
